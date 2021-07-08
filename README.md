@@ -11,13 +11,14 @@ E-Mail : <jsh159197@gmail.com>
 * Konlypy
 * Firebase
 * MySQL
+* HTML
 ***
-## 💻 Experience
+## 💻 Project & Experience
 ### 로지스마트
 > 융합캡스톤디자인 강의에서 진행한 팀 프로젝트
-* https://github.com/15balloon/LogiSmart
 * 온도관리 IoT 콜드체인 시스템
-* 2021.03. - 2021.06. (3개월)
+* Source Code : https://github.com/15balloon/LogiSmart
+* 개발 기간 : 2021.03. - 2021.06. (3개월)
 * 사용 기술 : Arduino, Java, Android, Firebase
 * 역할
   + 아두이노 프로그래밍
@@ -29,9 +30,9 @@ E-Mail : <jsh159197@gmail.com>
     - Firebase Cloud Messaging을 사용한 Push 전송 기능 개발
 ### Youtube LDA Modeling
 > ICT COG AI ACADEMY 교육 중 진행한 개인 프로젝트
-* https://github.com/15balloon/Youtube_LDA_Modeling
 * 댓글 데이터 토픽 모델링 및 분석
-* 2021.04.07. - 2021.04.19. (2주)
+* Source Code : https://github.com/15balloon/Youtube_LDA_Modeling
+* 개발 기간 : 2021.04.07. - 2021.04.19. (2주)
 * 사용 기술 : Python, Konlpy, LDA, WordCloud
 * 역할
   + 데이터 수집
@@ -44,7 +45,7 @@ E-Mail : <jsh159197@gmail.com>
 ### MyNeuron
 > CREDO 인턴 중 진행한 프로젝트
 * 근전도 체크 모바일 어플리케이션
-* 2021.01. - 2021.02. (2달)
+* 개발 기간 : 2021.01. - 2021.02. (2개월)
 * 사용 기술 : Java, Android
 * 역할
   + 안드로이드 앱 기능 수정
@@ -52,9 +53,9 @@ E-Mail : <jsh159197@gmail.com>
     - 기존 10.1인치 태블릿 화면에 최적화된 레이아웃을 다양한 크기의 태블릿과 폰을 지원할 수 있도록 수정
 ### Predict Can
 > 20-2학기 ‘인공지능’  강의 중 진행한 개인 프로젝트
-* https://github.com/15balloon/predict_can
 * CNN을 이용한 캔음료 분류
-* 2020.11. - 2020.12. (1달)
+* Source Code : https://github.com/15balloon/predict_can
+* 개발 기간 : 2020.11. - 2020.12. (1개월)
 * 사용 기술 : Python, Tensorflow, ImgAug, OpenCV, gTTS, Tkinter
 * 역할
   + 데이터 전처리
