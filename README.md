@@ -36,12 +36,14 @@ E-Mail : <jsh159197@gmail.com>
 * 사용 기술 : Python, Konlpy, LDA, WordCloud
 * 역할
   + 데이터 수집
-    - Youtube API를 사용한 데이터 수집
+    - Youtube API를 사용하여 64,400개의 데이터 추출
   + 데이터 전처리
-    - Konlypy와 정규표현식을 사용하여 불용어 제거
+    - 정규표현식을 사용하여 html 태그와 같은 문자 이외의 요소를 제거
+    - Konlypy의 Komoran을 사용하여 불용어 제거 및 토큰화 진행
   + 데이터 모델링 및 시각화
-    - LDA 기법을 사용한 토픽모델링 진행
-    - WordCloud를 활용한 시각화 개발
+    - GridSearchCV를 사용하여 모델링 결과에 영향을 주는 요소 파악
+    - LDA 기법과 TF-IDF를 사용하여 토픽모델링 진행
+    - pyLDAvis와 WordCloud를 활용하여 시각화 진행
 ### MyNeuron
 > CREDO 인턴 중 진행한 프로젝트
 * 근전도 체크 모바일 어플리케이션
@@ -59,11 +61,15 @@ E-Mail : <jsh159197@gmail.com>
 * 사용 기술 : Python, Tensorflow, ImgAug, OpenCV, gTTS, Tkinter
 * 역할
   + 데이터 전처리
-    - ImgAug를 활용해 이미지 수 증폭
-    - 이미지 리사이징
+    - ImgAug를 활용해 270개 -> 8100개로 이미지 수 증폭
+    - 학습을 위해 64*64 크기로 이미지 리사이징
+    - 각 이미지를 라벨링하여 .npy 파일로 저장
   + 데이터 모델링
     - CNN 모델을 사용하여 학습
-    - EarlyStopping과 Dropout 적용
+    - 활성화 함수로 'Relu'를 사용하고 마지막에는 'Softmax'를 사용
+    - 손실함수로는 'Cross Entropy'를 사용
+    - 과적합 방지를 위해 EarlyStopping과 Dropout을 적용
+    - 학습 결과를 .h5 파일에 저장
   + 어플리케이션
     - Tkinter로 GUI 구성
     - gTTS로 예측한 캔음료명을 음성으로 출력
