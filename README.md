@@ -8,15 +8,28 @@ E-Mail : <jsh159197@gmail.com>
 * Python
 * C/C++
 * Tensorflow
-* Konlypy
+* Konlpy
 * Firebase
 * MySQL
-* HTML
+* React-Native
 ***
 ## 💻 Project & Experience
+### MoreFaster
+> 2021 여름방학 단기 SW집중교육 프로그램에서 진행한 개인 프로젝트
+* 0부터 15까지 숫자 블록을 순서대로 누르는 게임
+* Source Code : https://github.com/15balloon/MoreFaster
+* 개발 기간 : 2021.06.30. - 2021.07.02. (3일)
+* 사용 기술 : JavaScript, React-Native, React-Native-Navigation
+* 역할
+  + UI 개발
+    - 초기 화면과 게임 화면을 기획하여 구현
+  + 화면 이동 개발
+    - React-Native-Navigation을 사용하여 화면 간의 이동 개발
+  + 게임 개발
+    - 숫자 블록 클릭 이벤트와 타이머 기능 개발
 ### 로지스마트
 > 융합캡스톤디자인 강의에서 진행한 팀 프로젝트
-* 온도관리 IoT 콜드체인 시스템
+* 위치 및 온도 관리 IoT 콜드체인 시스템
 * Source Code : https://github.com/15balloon/LogiSmart
 * 개발 기간 : 2021.03. - 2021.06. (3개월)
 * 사용 기술 : Arduino, Java, Android, Firebase
@@ -25,7 +38,8 @@ E-Mail : <jsh159197@gmail.com>
     - 블루투스 모듈을 통해 온습도와 GPS 센서값을 앱으로 전송
   + 안드로이드 앱 개발
     - Firebase Phone Authentication을 사용한 본인 인증 기능 개발
-    - 아두이노와의 저전력 블루투스 통신 기능 개발
+    - 아두이노와의 저전력 블루투스(BLE) 통신 기능 개발
+    - 핸드폰 내장 GPS를 이용한 위치 정보 서비스 구현
     - 서버와의 HTTP 통신 개발
     - Firebase Cloud Messaging을 사용한 Push 전송 기능 개발
 ### Youtube LDA Modeling
