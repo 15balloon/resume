@@ -24,40 +24,19 @@ Blog : <https://15balloon.github.io/>
 
 ### 네오컨버전스(주)
 
-> 앱 개발팀의 팀원으로 디지털 사이니지 서비스인 SKB On-Air/On-Ad의 TV 앱 개발 수행  
-> 유지보수를 비롯한 요구사항에 맞는 새로운 기능 개발 진행
+#### 앱개발팀
+
+> [On-Air/On-Ad TV 앱](#on-airon-ad)과 [MQT 앱](#mqt) 기능 개발 및 유지보수 수행
 
 - 2021.11. - now
 
-  #### On-Air/On-Ad
-
-  - 사업장에 필요한 미디어 콘텐츠(홍보, 메뉴보드, 안내, 사내방송)를 제공하는 서비스. [자세한 서비스 설명](http://www.neoconv.com/s231)
-  - 사용 기술 : Java, Kotlin, Android
-  - 수행 업무 :
-    - VOD 기능 개발
-      - 리모컨 컨트롤에 의한 포커스 부여 및 Dynamic View간 포커스 이동
-      - multi-level 레이아웃 구현
-    - 여러 종류의 콘텐츠(파일, 이미지, 스트림, 라이브) 혼합 편성 기능 개발
-    - 편성 콘텐츠 별 레이아웃 설정 기능 개발
-    - 다양한 디스플레이 지원
-      - 태블릿 및 다양한 크기의 디스플레이 지원
-      - 세로 디스플레이를 위한 화면 회전 지원
-    - 기타 유지보수
-
 ### CREDO
 
-> 2020 겨울방학 단기인턴십을 통해 근무하며 근전도 체크 모바일 앱인 MyNeuron의 앱 개발 수행
+#### 인턴
 
-- 2021.01. - 2021.02.
+> 2020 겨울방학 단기인턴십을 통해 근무하며 근전도 체크 모바일 앱인 [MyNeuron](#myneuron) 앱 기능 개발 수행
 
-  #### MyNeuron
-
-  - 근전도 체크 모바일 어플리케이션
-  - 사용 기술 : Java, Android, BLE
-  - 수행 업무 :
-    - 안드로이드 앱 기능 수정
-      - 기존 BLE 기기 하나만 연결할 수 있는 기능을 다중 연결이 가능하도록 수정
-      - 기존 10.1인치 태블릿 화면에 최적화된 레이아웃을 다양한 크기의 태블릿과 폰을 지원할 수 있도록 수정
+- 2021.01. - 2021.02. (2개월)
 
 ---
 
@@ -65,23 +44,58 @@ Blog : <https://15balloon.github.io/>
 
 ### ICT COG AI ACADEMY 언어지능 2기
 
-https://ictcog.or.kr/
+교육 기관 : <https://ictcog.or.kr/>
 
-> 비정형 데이터 수집과 RNN을 활용한 데이터 분석 교육
+> 비정형 데이터 수집과 RNN을 활용한 데이터 분석 교육 수강 및 [Youtube LDA Modeling](#youtube-lda-modeling) 프로젝트 진행
 
-- 2021.02. - 2021.04.
+- 2021.02. - 2021.04. (2개월)
 
 ---
 
 ## 💻 Project
 
+### MQT
+
+> 네오컨버전스 재직 중 수행한 프로젝트
+
+- 2023.03. - now
+- SKB 서비스 기사를 위한 인터넷/IPTV 품질 측정 솔루션을 제공하는 서비스
+- Google Play : <https://play.google.com/store/apps/details?id=com.neoconv.mqt>
+- 사용 기술 : Java, Kotlin, Android
+- 수행 업무 : 
+  - UI/UX 개선
+  - 앱 정상 작동률 향상 (97% -> 99.8%)
+  - Bluetooth/USB 연결 안정성 개선
+  - Android 버전 대응
+  - 기타 유지보수
+
+### On-Air/On-Ad
+
+> 네오컨버전스 재직 중 수행한 프로젝트
+
+- 2021.11. - now
+- 사업장에 필요한 미디어 콘텐츠(홍보, 메뉴보드, 안내, 사내방송)를 제공하는 디지털 사이니지 서비스
+- 프로젝트 소개 : <http://www.neoconv.com/s231>
+- 사용 기술 : Java, Kotlin, Android, Leanback, ExoPlayer, Coroutine, LivaData, Jetpack Compose
+- 수행 업무 :
+  - VOD 기능 개발
+    - 리모컨 컨트롤에 의한 포커스 부여 및 Dynamic View간 포커스 이동
+    - multi-level 레이아웃 구현
+  - 앱 성능 최적화
+  - 여러 종류의 콘텐츠(파일, 이미지, 스트림, 라이브) 혼합 편성 기능 개발
+  - 편성 콘텐츠 별 레이아웃 설정 기능 개발
+  - 다양한 디스플레이 지원
+    - 태블릿 및 다양한 크기의 디스플레이 지원
+    - 세로 디스플레이를 위한 화면 회전 지원
+  - 기타 유지보수
+
 ### MoreFaster
 
-> 2021 여름방학 단기 SW집중교육 프로그램에서 진행한 개인 프로젝트
+> 교내 2021 여름방학 단기 SW집중교육 프로그램에서 진행한 개인 프로젝트
 
 - 2021.06.30. - 2021.07.02. (3일)
 - 0부터 15까지 숫자 블록을 순서대로 누르는 게임
-- Source Code : https://github.com/15balloon/MoreFaster
+- 프로젝트 소개 : <https://github.com/15balloon/MoreFaster>
 - 사용 기술 : JavaScript, React-Native, React-Native-Navigation
 - 역할
   - UI 개발
@@ -93,11 +107,11 @@ https://ictcog.or.kr/
 
 ### 로지스마트
 
-> 융합캡스톤디자인 강의에서 진행한 팀 프로젝트
+> 21-1학기 '융합캡스톤디자인' 강의에서 진행한 팀 프로젝트
 
 - 2021.03. - 2021.06. (3개월)
-- 위치 및 온도 관리 IoT 콜드체인 시스템
-- Source Code : https://github.com/15balloon/LogiSmart
+- 위치 및 온도 관리 IoT 콜드체인 시스템 관리 앱
+- 프로젝트 소개 : <https://github.com/15balloon/LogiSmart>
 - 사용 기술 : Java, Android, Arduino, Firebase, BLE
 - 역할
   - 아두이노 프로그래밍
@@ -109,13 +123,24 @@ https://ictcog.or.kr/
     - 서버와의 HTTP 통신 개발
     - Firebase Cloud Messaging을 사용한 Push 전송 기능 개발
 
+### MyNeuron
+
+> CREDO 인턴 재직 중 수행한 프로젝트
+
+- 2021.01. - 2021.02. (2개월)
+- 근전도 체크 디지털 헬스케어 솔루션 데모 앱
+- 사용 기술 : Java, Android, BLE
+- 수행 업무
+  - 기존 BLE 기기 하나만 연결할 수 있는 기능을 다중 연결이 가능하도록 수정
+  - 기존 10.1인치 태블릿 화면에 최적화된 레이아웃을 다양한 크기의 태블릿과 폰을 지원할 수 있도록 수정
+
 ### Youtube LDA Modeling
 
 > ICT COG AI ACADEMY 교육 중 진행한 개인 프로젝트
 
 - 2021.04.07. - 2021.04.19. (2주)
-- 댓글 데이터 토픽 모델링 및 분석
-- Source Code : https://github.com/15balloon/Youtube_LDA_Modeling
+- Youtube 댓글 데이터 토픽 모델링 및 분석
+- 프로젝트 소개 : <https://github.com/15balloon/Youtube_LDA_Modeling>
 - 사용 기술 : Python, Konlpy, LDA, WordCloud
 - 역할
   - 데이터 수집
@@ -134,7 +159,7 @@ https://ictcog.or.kr/
 
 - 2020.11. - 2020.12. (1개월)
 - CNN을 이용한 캔음료 분류
-- Source Code : https://github.com/15balloon/predict_can
+- 프로젝트 소개 : <https://github.com/15balloon/predict_can>
 - 사용 기술 : Python, Tensorflow, ImgAug, OpenCV, gTTS, Tkinter
 - 역할
   - 데이터 전처리
