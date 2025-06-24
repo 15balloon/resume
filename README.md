@@ -9,50 +9,36 @@ Blog : <https://15balloon.github.io/>
 
 ## 📚 Stack
 
-- Java
-- Kotlin
-- Android
-- MySQL
-- Firebase
+- Kotlin 🌟
+- Java 🌟
+- Android 🌟
+- Flutter 🌟
+- Firebase 🌟
 - Python
+- MySQL
 - C/C++
 - React-Native
-
----
-
-## 👔 Work Experience
-
-### 네오컨버전스(주)
-
-#### 앱개발팀
-
-> [On-Air/On-Ad TV 앱](#on-airon-ad)과 [MQT 앱](#mqt) 기능 개발 및 유지보수 수행
-
-- 2021.11. - now
-
-### CREDO
-
-#### 인턴
-
-> 2020 겨울방학 단기인턴십을 통해 근무하며 근전도 체크 모바일 앱인 [MyNeuron](#myneuron) 앱 기능 개발 수행
-
-- 2021.01. - 2021.02. (2개월)
-
----
-
-## 🎒 Other Experience
-
-### ICT COG AI ACADEMY 언어지능 2기
-
-교육 기관 : <https://ictcog.or.kr/>
-
-> 비정형 데이터 수집과 RNN을 활용한 데이터 분석 교육 수강 및 [Youtube LDA Modeling](#youtube-lda-modeling) 프로젝트 진행
-
-- 2021.02. - 2021.04. (2개월)
-
+  
 ---
 
 ## 💻 Project
+
+### 파킹AI
+
+> 네오컨버전스 재직 중 수행한 프로젝트
+
+- 2024.03. - now
+- 노상주차장 요금 결제 서비스
+- Google Play : <https://play.google.com/store/apps/details?id=com.neoconv.parkingai>
+- App Store : <https://apps.apple.com/us/app/%ED%8C%8C%ED%82%B9ai/id6736729477>
+- 사용 기술 : Flutter, Dart, PG 결제 모듈, Provider
+- 수행 업무 :
+  - 전반적인 앱 설계 및 구현
+  - PG 결제 모듈 연동
+  - 앱 마켓 등록 및 배포
+  - Android 버전 대응
+  - iOS 버전 대응
+  - 기타 유지보수
 
 ### MQT
 
@@ -175,6 +161,40 @@ Blog : <https://15balloon.github.io/>
   - 어플리케이션
     - Tkinter로 GUI 구성
     - gTTS로 예측한 캔음료명을 음성으로 출력
+
+---
+
+## 👔 Work Experience
+
+### 네오컨버전스(주)
+
+#### 앱개발팀
+
+> [On-Air/On-Ad TV 앱](#on-airon-ad), [MQT 앱](#mqt)과 [파킹AI 앱](#파킹ai) 기능 개발 및 유지보수 수행
+
+- 2021.11. - now
+
+### CREDO
+
+#### 인턴
+
+> 2020 겨울방학 단기인턴십을 통해 근무하며 근전도 체크 모바일 앱인 [MyNeuron](#myneuron) 앱 기능 개발 수행
+
+- 2021.01. - 2021.02. (2개월)
+
+---
+
+## 🎒 Other Experience
+
+### ICT COG AI ACADEMY 언어지능 2기
+
+교육 기관 : <https://ictcog.or.kr/>
+
+> 비정형 데이터 수집과 RNN을 활용한 데이터 분석 교육 수강 및 [Youtube LDA Modeling](#youtube-lda-modeling) 프로젝트 진행
+
+- 2021.02. - 2021.04. (2개월)
+
+---
 
 ## 🏆 Awards
 
