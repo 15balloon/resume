@@ -30,6 +30,7 @@ Blog : <https://15balloon.github.io/>
 - 2025.06.21 - 2025.06.23 (3일)
 - 홈 화면에서 빠르게 연락처에 접근할 수 있는 큰 글자 위젯 앱
 - Google Play : <https://play.google.com/store/apps/details?id=com.l5balloon.bigcontacts>
+- 프로젝트 소개 : <https://github.com/15balloon/Big_Contacts>
 - 사용 기술 : Android, Kotlin, Jetpack Compose
 - 역할 : 
   - 전반적인 앱 설계 및 구현
