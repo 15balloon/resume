@@ -178,9 +178,9 @@ Blog : <https://15balloon.github.io/>
 
 #### 앱개발팀
 
-> [On-Air/On-Ad TV 앱](#on-airon-ad), [MQT 앱](#mqt)과 [파킹AI 앱](#파킹ai) 기능 개발 및 유지보수 수행
+> [On-Air/On-Ad TV 앱](#on-airon-ad), [MQT 앱](#mqt)과 [파킹AI 앱](#파킹ai) 개발 및 운영
 
-- 2021.11. - 2026.09.
+- 2021.11. - 2026.09. (4년 11개월)
 
 ### 의료기기회사
 
