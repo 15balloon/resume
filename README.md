@@ -23,6 +23,25 @@ Blog : <https://15balloon.github.io/>
 
 ## 💻 Project
 
+### 큰 연락처 위젯
+
+> 개인 안드로이드 앱 프로젝트
+
+- 2025.06.21 - 2025.06.23 (3일)
+- 홈 화면에서 빠르게 연락처에 접근할 수 있는 큰 글자 위젯 앱
+- Google Play : <https://play.google.com/store/apps/details?id=com.l5balloon.bigcontacts>
+- 사용 기술 : Android, Kotlin, Jetpack Compose
+- 역할 : 
+  - 전반적인 앱 설계 및 구현
+  - 다양한 테마(배경색, 글자색)로 위젯 커스터마이즈 지원
+  - 직관적인 색상 선택 기능 지원(색상 휠, Brightness/Alpha/HEX/RGB 입력)
+  - 다국어 지원(15개 언어)
+  - 다크 모드 지원
+  - 다양한 해상도 및 기기 호환
+  - 앱 마켓 등록 및 배포
+  - Android 버전 대응
+  - 기타 유지보수
+
 ### 파킹AI
 
 > IT회사 재직 중 수행한 프로젝트
